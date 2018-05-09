@@ -51,4 +51,3 @@ function classData:main ()
 end 
 
 classData:main ()
---_G[r and "removeEventHandler" or "addEventHandler"]("onClientRender", root, funkcja)
